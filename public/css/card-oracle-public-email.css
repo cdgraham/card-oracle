@@ -1,0 +1,22 @@
+/** 
+ * CSS for emails
+ */
+
+.card-oracle-table
+{
+	border-collapse: separate;
+	border-spacing: 10px 0;
+}
+
+.card-oracle-table th td
+{
+	padding:10px;
+}
+
+.card-oracle-rotate-image {
+	-moz-transform: rotateX(180deg);
+	-ms-transform: rotateX(180deg);
+	-o-transform: rotateX(180deg);
+	-webkit-transform:rotateX(180deg);
+	transform: rotateX(180deg);
+}
